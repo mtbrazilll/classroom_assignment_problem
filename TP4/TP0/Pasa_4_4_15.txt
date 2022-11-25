@@ -1,0 +1,7 @@
+
+
+
+	Problem Size (nT x nS x nH):4x4x15
+	CPU Time(sec): 2
+	Obj Value: 13
+
